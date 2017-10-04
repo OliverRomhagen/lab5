@@ -1,0 +1,14 @@
+footer {
+	height: 50px;
+	background-color: #1b1f2e;
+	margin-top: 10px;
+
+}
+
+footer div {
+	padding-top: 15px;
+}
+
+footer div p {
+	color: #c7c7c7;
+}

@@ -1,0 +1,43 @@
+*{
+	font-family: verdana;
+	margin: 0 auto;
+}
+
+#entirepage {
+		width: 800px;
+		border-right: solid grey 1px;
+		border-left: solid grey 1px;
+}
+
+
+
+body {
+	text-align: center;
+}
+
+.pMargin {
+	margin: 10px 0 10px 0;
+}
+
+main h2 {
+	margin-top: 10px;
+}
+
+main div img {
+	width: 30%;
+	padding-top: 10px;
+}
+
+form {
+  margin: 15px 0 15px 0;
+}
+
+form input {
+  border-radius: 10px;
+  height: 25px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+}
